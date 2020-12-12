@@ -1,4 +1,4 @@
-### 📈 | Github stats
+#### 📈 | Github stats
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=pix-ggyr&show_icons=true&theme=radical"/>
@@ -20,7 +20,7 @@
 
 ----------
 
-### 📪 | Contact me
+#### 📪 | Contact me
 
 <p>
   <a href="mailto:gwengyr@protonmail.com?subject=[GitHub]%20Prise%20de%20contact"><img src="https://github.com/Pix-ggyr/Pix-ggyr/blob/main/docs/assets/custom-icons-protonmail.png?raw=true" /></a>
@@ -31,7 +31,9 @@
 
 ----------
 
-### 🔭 | I’m currently looking for a job as web developer junior
+#### 🌱 | I’m currently learning <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+
+#### 🔭 | I’m currently looking for a job as web developer junior
 
 <!--
 **Pix-ggyr/Pix-ggyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
