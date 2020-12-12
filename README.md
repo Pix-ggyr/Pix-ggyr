@@ -14,10 +14,14 @@
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
 </p>
-<p>
-  📪 Contact me here :
+<p><br/>
+
+## 📪 Contact me here :
+
+---
+
   <p>
-<a href="mailto:gwengyr@mailo.com?subject=[GitHub]%20Prise%20de%20contact">Email</a>
+<a href="mailto:gwengyr@mailo.com?subject=[GitHub]%20Prise%20de%20contact"><img src="https://raw.githubusercontent.com/Pix-ggyr/Pix-ggyr/main/docs/assets/custom-icons-protonmail.png?token=AO237QSIUIOPM722ABXSN6272TYYG" /></a>
 <a href="https://instagram.com/gwen_gyr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/gwenaëlle-goyer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/GwenGyr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
