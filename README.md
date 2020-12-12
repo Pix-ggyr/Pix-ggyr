@@ -18,6 +18,8 @@
 </p>
 <br />
 
+----------
+
 ### 📪 | Contact me
 
 <p>
@@ -27,7 +29,9 @@
     <a href="https://twitter.com/GwenGyr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-### 🔭 | I’m currently working on...
+----------
+
+### 🔭 | I’m currently looking for a job as web developer junior
 
 <!--
 **Pix-ggyr/Pix-ggyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
