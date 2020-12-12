@@ -14,9 +14,11 @@
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
 </p>
+<p>
+  📫 How to reach me:
+<a href="mailto:gwengyr@mailo.com?subject=[GitHub]%20🔥%20Prise%20de%20contact"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+</p>
 
-- 📫 How to reach me:
-<a href="mailto:gwengyr@mailo.com?subject=[GitHub]%20
 <!--
 **Pix-ggyr/Pix-ggyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
