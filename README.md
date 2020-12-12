@@ -15,9 +15,14 @@
   </p>
 </p>
 <p>
-  📫 How to reach me:
+  📪 Contact me here :
   <p>
-<a href="mailto:gwengyr@mailo.com?subject=[GitHub]%20🔥%20Prise%20de%20contact">
+<a href="mailto:gwengyr@mailo.com?subject=[GitHub]%20Prise%20de%20contact">Email</a>
+<a href="https://instagram.com/gwen_gyr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gwenaëlle-goyer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/GwenGyr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
   </p>
 </p>
 
