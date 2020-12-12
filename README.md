@@ -16,7 +16,9 @@
 </p>
 <p>
   📫 How to reach me:
-<a href="mailto:gwengyr@mailo.com?subject=[GitHub]%20🔥%20Prise%20de%20contact"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <p>
+<a href="mailto:gwengyr@mailo.com?subject=[GitHub]%20🔥%20Prise%20de%20contact">
+  </p>
 </p>
 
 <!--
