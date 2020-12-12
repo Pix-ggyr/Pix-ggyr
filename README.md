@@ -1,4 +1,4 @@
-## <h3> 📈 | Github stats </h3>
+### 📈 | Github stats
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=pix-ggyr&show_icons=true&theme=radical"/>
@@ -18,7 +18,7 @@
 </p>
 <br />
 
-## <h3> 📪 | Contact me </h3>
+### 📪 | Contact me
 
 <p>
   <a href="mailto:gwengyr@protonmail.com?subject=[GitHub]%20Prise%20de%20contact"><img src="https://github.com/Pix-ggyr/Pix-ggyr/blob/main/docs/assets/custom-icons-protonmail.png?raw=true" /></a>
@@ -27,7 +27,7 @@
     <a href="https://twitter.com/GwenGyr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-## <h3> 🔭 | I’m currently working on... </h3>
+### 🔭 | I’m currently working on...
 
 <!--
 **Pix-ggyr/Pix-ggyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
