@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
 </p>
-<br />
-
 <p>
   <h4> 📪 | Contact me </h4><br />
     <a href="mailto:gwengyr@protonmail.com?subject=[GitHub]%20Prise%20de%20contact"><img src="https://github.com/Pix-ggyr/Pix-ggyr/blob/main/docs/assets/custom-icons-protonmail.png?raw=true" /></a>
@@ -25,8 +23,6 @@
     <a href="https://linkedin.com/in/gwenaëlle-goyer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/GwenGyr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-<br />
-
 <p>
   <h4>😎 | Quelques mots sur moi :</h4><br />
   🦉 Je m'appelle Gwen alias Pix, j'ai 30 ans et je suis passionnée par la photographie, le design et le gaming.<br>
@@ -36,9 +32,9 @@
 💻 J'ai une grosse appétence pour le front, je développe pour l'instant en <a href='https://vuejs.org/'>Vue.js</a>. Mais je fais aussi du back sous <a href='https://nodejs.org/en/'>Node.js</a>
 </p>
 
-#### 🌱 | I’m currently improving my skills in [Vue.js](https://vuejs.org/)
+<h4> 🌱 | Je suis en train de me perfectionner en <a href='https://vuejs.org/'>Vue.js</a></h4>
 
-#### 🔭 | I’m currently looking for a job as web developer junior Vue.js / Node.js
+<h4> 🔭 | Je cherche actuellement un poste de développeur junior Vue.js / Node.js</h4>
 
 <!--
 **Pix-ggyr/Pix-ggyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
