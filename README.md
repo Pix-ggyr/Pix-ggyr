@@ -18,25 +18,26 @@
 </p>
 <br />
 
-----------
 
-#### 📪 | Contact me
+
+<h3> 📪 | Contact me </h3>
 
 <p>
   <a href="mailto:gwengyr@protonmail.com?subject=[GitHub]%20Prise%20de%20contact"><img src="https://github.com/Pix-ggyr/Pix-ggyr/blob/main/docs/assets/custom-icons-protonmail.png?raw=true" /></a>
   <a href="https://instagram.com/gwen_gyr"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/gwenaëlle-goyer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/GwenGyr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gwenaëlle-goyer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/GwenGyr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <br />
 
 ----------
 
-<p>🦉 Je m'appelle Gwen alias Pix, j'ai 30 ans et je suis passionnée par la photographie, le design et le gaming.</p>
-<p>📍 Je vis actuellement à Bordeaux, mais je suis un oiseau migrateur.</p>
-<p>📷 Je suis également <a href='https://www.instagram.com/gwen_gyr/'>photographe</a> et graphiste.</p>
-<p>🛠️ Je suis maintenant diplômée en développement web, ce qui fait de moi une véritable femme couteau-suisse.</p>
-<p>💻 J'ai une grosse appétence pour le front, je développe pour l'instant en <a href='https://vuejs.org/'>Vue.js</a>. Mais je fais aussi du back sous <a href='https://nodejs.org/en/'>Node.js</a></p>
+<p>
+  🦉 Je m'appelle Gwen alias Pix, j'ai 30 ans et je suis passionnée par la photographie, le design et le gaming.<br>
+📍 Je vis actuellement à Bordeaux, mais je suis un oiseau migrateur.<br>
+📷 Je suis également <a href='https://www.instagram.com/gwen_gyr/'>photographe</a> et graphiste.<br>
+🛠️ Je suis maintenant diplômée en développement web, ce qui fait de moi une véritable femme couteau-suisse.<br>
+💻 J'ai une grosse appétence pour le front, je développe pour l'instant en <a href='https://vuejs.org/'>Vue.js</a>. Mais je fais aussi du back sous <a href='https://nodejs.org/en/'>Node.js</a></p>
 
 
 ----------
