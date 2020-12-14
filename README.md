@@ -34,9 +34,9 @@
 
 <p>🦉 Je m'appelle Gwen alias Pix, j'ai 30 ans et je suis passionnée par la photographie, le design et le gaming.</p>
 <p>📍 Je vis actuellement à Bordeaux, mais je suis un oiseau migrateur.</p>
-<p>📷 Je suis également [photographe](https://www.instagram.com/gwen_gyr/) et graphiste.</p>
+<p>📷 Je suis également <a href='https://www.instagram.com/gwen_gyr/'>photographe</a> et graphiste.</p>
 <p>🛠️ Je suis maintenant diplômée en développement web, ce qui fait de moi une véritable femme couteau-suisse.</p>
-<p>💻 J'ai une grosse appétence pour le front, je développe pour l'instant en [Vue.js](https://vuejs.org/). Mais je fais aussi du back sous [Node.js](https://nodejs.org/en/).</p>
+<p>💻 J'ai une grosse appétence pour le front, je développe pour l'instant en <a href='https://vuejs.org/'>Vue.js</a>. Mais je fais aussi du back sous <a href='https://nodejs.org/en/'>Node.js</a></p>
 
 
 ----------
