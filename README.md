@@ -28,14 +28,15 @@
     <a href="https://linkedin.com/in/gwenaëlle-goyer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/GwenGyr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+<br />
 
 ----------
 
-🦉 Je m'appelle Gwen alias Pix, j'ai 30 ans et je suis passionnée par la photographie, le design et le gaming.
-📍 Je vis actuellement à Bordeaux, mais je suis un oiseau migrateur.
-📷 Je suis également [photographe](https://www.instagram.com/gwen_gyr/) et graphiste.
-🛠️ Je suis maintenant diplômée en développement web, ce qui fait de moi une véritable femme couteau-suisse.
-💻 J'ai une grosse appétence pour le front, je développe pour l'instant en [Vue.js](https://vuejs.org/). Mais je fais aussi du back sous [Node.js](https://nodejs.org/en/).
+<p>🦉 Je m'appelle Gwen alias Pix, j'ai 30 ans et je suis passionnée par la photographie, le design et le gaming.</p>
+<p>📍 Je vis actuellement à Bordeaux, mais je suis un oiseau migrateur.</p>
+<p>📷 Je suis également [photographe](https://www.instagram.com/gwen_gyr/) et graphiste.</p>
+<p>🛠️ Je suis maintenant diplômée en développement web, ce qui fait de moi une véritable femme couteau-suisse.</p>
+<p>💻 J'ai une grosse appétence pour le front, je développe pour l'instant en [Vue.js](https://vuejs.org/). Mais je fais aussi du back sous [Node.js](https://nodejs.org/en/).</p>
 
 
 ----------
