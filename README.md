@@ -31,9 +31,18 @@
 
 ----------
 
-#### 🌱 | I’m currently learning <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+🦉 Je m'appelle Gwen alias Pix, j'ai 30 ans et je suis passionnée par la photographie, le design et le gaming.
+📍 Je vis actuellement à Bordeaux, mais je suis un oiseau migrateur.
+📷 Je suis également [photographe](https://www.instagram.com/gwen_gyr/) et graphiste.
+🛠️ Je suis maintenant diplômée en développement web, ce qui fait de moi une véritable femme couteau-suisse.
+💻 J'ai une grosse appétence pour le front, je développe pour l'instant en [Vue.js](https://vuejs.org/). Mais je fais aussi du back sous [Node.js](https://nodejs.org/en/).
 
-#### 🔭 | I’m currently looking for a job as web developer junior
+
+----------
+
+#### 🌱 | I’m currently improving my skills in [Vue.js](https://vuejs.org/)
+
+#### 🔭 | I’m currently looking for a job as web developer junior Vue.js / Node.js
 
 <!--
 **Pix-ggyr/Pix-ggyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
