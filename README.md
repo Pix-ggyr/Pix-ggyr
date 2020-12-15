@@ -1,6 +1,5 @@
-#### 📈 | Github stats
-
 <p>
+  <h4> 📈 | Github stats </h4><br />
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=pix-ggyr&show_icons=true&theme=radical"/>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -15,7 +14,7 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
-</p>
+</p><br />
 <p>
   <h4> 📪 | Contact me </h4><br />
     <a href="mailto:gwengyr@protonmail.com?subject=[GitHub]%20Prise%20de%20contact"><img src="https://github.com/Pix-ggyr/Pix-ggyr/blob/main/docs/assets/custom-icons-protonmail.png?raw=true" /></a>
