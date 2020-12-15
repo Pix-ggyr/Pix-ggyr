@@ -14,7 +14,10 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
-</p><br />
+</p>
+<br />
+<br />
+<br />
 <p>
   <h4> 📪 | Contact me </h4><br />
     <a href="mailto:gwengyr@protonmail.com?subject=[GitHub]%20Prise%20de%20contact"><img src="https://github.com/Pix-ggyr/Pix-ggyr/blob/main/docs/assets/custom-icons-protonmail.png?raw=true" /></a>
