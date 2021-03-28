@@ -27,7 +27,7 @@
 </p>
 <p>
   <h4>😎 | Quelques mots sur moi :</h4><br />
-  🦉 Je m'appelle Gwen alias Pix, j'ai 30 ans et je suis passionnée par la photographie, le design et le gaming.<br>
+  🦉 Je m'appelle Gwen alias Pix, j'ai 31 ans et je suis passionnée par la photographie, le design et le gaming.<br>
 📍 Je vis actuellement à Bordeaux, mais je suis un oiseau migrateur.<br>
 📷 Je suis également <a href='https://www.instagram.com/gwen_gyr/'>photographe</a> et graphiste.<br>
 🛠️ Je suis maintenant diplômée en développement web, ce qui fait de moi une véritable femme couteau-suisse.<br>
